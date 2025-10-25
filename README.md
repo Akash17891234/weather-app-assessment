@@ -293,7 +293,6 @@ To deploy your own instance:
 This project was created as a technical assessment.
 
 ## Contact
-
 **AkashKrishna Bhukya** - Sole Developer
 - GitHub: [@Akash17891234](https://github.com/Akash17891234)
 - Project Repository: [weather-app-assessment](https://github.com/Akash17891234/weather-app-assessment)
